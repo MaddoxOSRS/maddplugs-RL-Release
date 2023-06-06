@@ -15,5 +15,5 @@ Power Miner.
 3 tick woodcutter
 
 Paid plugins:
-Mole killer(Banking in the works)
+Mole killer(w/Bank Support)
 
